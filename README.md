@@ -1,15 +1,13 @@
 # 👋 Merhaba, ben WantedGang!
 
 <a href="https://github.com/WantedGang">
-  <img align="right" src="https://github.com/WantedGang/WG-TRepo/blob/master/TRepo.png" width="180" alt="TRepo Logo"/>
+  <img align="right" src="https://github.com/WantedGang/WantedGang/blob/main/WantedGang.jpeg" width="180" alt="TRepo Logo"/>
 </a>
 
 ## Hakkımda
 
-- 🚀 Açık kaynak tutkunu, CloudStream topluluğu için katkı sağlayan bir geliştiriciyim.
-- 🇹🇷 Özellikle **Türk eklenti depoları** ve topluluk projeleriyle ilgileniyorum.
+- 🚀 Açık kaynak tutkunu, CloudStream hayranı.
 - 💡 Yeni fikirler ve projeler geliştirmeyi seviyorum.
-- 👨‍💻 Back-end ve otomasyon ağırlıklı çalışıyorum.
 
 ## Öne Çıkan Projelerim
 
